@@ -1,5 +1,5 @@
 /* ----------------------------------------------------------------------------------------
-* Author        : Aman
+* Author        : Amir
 * Template Name : Resu | Personal Portfolio Template
 * File          : Resu main script/js files
 * Version       : 1.0
